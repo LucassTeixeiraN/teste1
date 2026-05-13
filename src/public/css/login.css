@@ -1,0 +1,39 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.login-container {
+    max-width: 400px;
+    margin-top: 100px;
+}
+
+/* Card de Login */
+.card {
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border: none;
+}
+
+/* Botão Verde Jacaridade */
+.btn-primary {
+    background-color: #28a745;
+    border: none;
+    padding: 10px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+    background-color: #218838;
+}
+
+.form-label {
+    font-weight: 500;
+    color: #495057;
+}
+
+.text-center a {
+    color: #28a745;
+    font-weight: 500;
+}
